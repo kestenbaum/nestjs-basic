@@ -1,9 +1,6 @@
 # 🚀 NESTJS-BASIC: Grundlagen der Architektur
 
 [![NestJS Logo](https://nestjs.com/img/logo_text.svg)](https://nestjs.com/)
-
-**Status:** [![Commit Activity](https://img.shields.io/github/commit-activity/y/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?label=Aktivität&color=blueviolet)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/commits/main)
-
 ---
 
 ## 🌟 Über dieses Projekt
@@ -39,6 +36,5 @@ Um dieses Projekt lokal auszuführen, befolgen Sie bitte die folgenden Schritte.
 ### 1. Repository klonen
 
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-cd NESTJS-BASIC
+git clone https://github.com/kestenbaum/nestjs-basic.git
 ```
