@@ -19,7 +19,8 @@ class AppController {
 }
 
 @Module({
-    controllers: [AppController]
+    controllers: [AppController],
+    providers: [AppService]
 })
 
 class AppModel {}
